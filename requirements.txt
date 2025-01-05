@@ -1,4 +1,123 @@
-aiohttp==3.8.1
-python-telegram-bot[job-queue]==20.3
-typing-extensions==4.6.3
-python-dotenv==0.21.1
+  a i o h a p p y e y e b a l l s = = 2 . 4 . 4 
+ 
+ a i o h t t p = = 3 . 1 1 . 1 1 
+ 
+ a i o s i g n a l = = 1 . 3 . 2 
+ 
+ a n y i o = = 4 . 7 . 0 
+ 
+ A P S c h e d u l e r = = 3 . 1 0 . 4 
+ 
+ a t t r s = = 2 4 . 3 . 0 
+ 
+ C a c h e C o n t r o l = = 0 . 1 4 . 1 
+ 
+ c a c h e t o o l s = = 5 . 5 . 0 
+ 
+ c e r t i f i = = 2 0 2 4 . 8 . 3 0 
+ 
+ c f f i = = 1 . 1 7 . 1 
+ 
+ c h a r s e t - n o r m a l i z e r = = 3 . 4 . 0 
+ 
+ c r y p t o g r a p h y = = 4 4 . 0 . 0 
+ 
+ f i r e b a s e - a d m i n = = 6 . 6 . 0 
+ 
+ f p d f = = 1 . 7 . 2 
+ 
+ f r o z e n l i s t = = 1 . 5 . 0 
+ 
+ g o o g l e - a p i - c o r e = = 2 . 2 3 . 0 
+ 
+ g o o g l e - a p i - p y t h o n - c l i e n t = = 2 . 1 5 4 . 0 
+ 
+ g o o g l e - a u t h = = 2 . 3 6 . 0 
+ 
+ g o o g l e - a u t h - h t t p l i b 2 = = 0 . 2 . 0 
+ 
+ g o o g l e - a u t h - o a u t h l i b = = 1 . 2 . 1 
+ 
+ g o o g l e - c l o u d - c o r e = = 2 . 4 . 1 
+ 
+ g o o g l e - c l o u d - f i r e s t o r e = = 2 . 1 9 . 0 
+ 
+ g o o g l e - c l o u d - s t o r a g e = = 2 . 1 8 . 2 
+ 
+ g o o g l e - c r c 3 2 c = = 1 . 6 . 0 
+ 
+ g o o g l e - r e s u m a b l e - m e d i a = = 2 . 7 . 2 
+ 
+ g o o g l e a p i s - c o m m o n - p r o t o s = = 1 . 6 6 . 0 
+ 
+ g r p c i o = = 1 . 6 8 . 1 
+ 
+ g r p c i o - s t a t u s = = 1 . 6 8 . 1 
+ 
+ g s p r e a d = = 6 . 1 . 4 
+ 
+ h 1 1 = = 0 . 1 4 . 0 
+ 
+ h t t p c o r e = = 1 . 0 . 7 
+ 
+ h t t p l i b 2 = = 0 . 2 2 . 0 
+ 
+ h t t p x = = 0 . 2 8 . 1 
+ 
+ i d n a = = 3 . 1 0 
+ 
+ m s g p a c k = = 1 . 1 . 0 
+ 
+ m u l t i d i c t = = 6 . 1 . 0 
+ 
+ n u m p y = = 2 . 1 . 3 
+ 
+ o a u t h l i b = = 3 . 2 . 2 
+ 
+ p a n d a s = = 2 . 2 . 3 
+ 
+ p r o p c a c h e = = 0 . 2 . 1 
+ 
+ p r o t o - p l u s = = 1 . 2 5 . 0 
+ 
+ p r o t o b u f = = 5 . 2 9 . 0 
+ 
+ p y a s n 1 = = 0 . 6 . 1 
+ 
+ p y a s n 1 _ m o d u l e s = = 0 . 4 . 1 
+ 
+ p y c p a r s e r = = 2 . 2 2 
+ 
+ P y J W T = = 2 . 1 0 . 1 
+ 
+ p y p a r s i n g = = 3 . 2 . 0 
+ 
+ p y T e l e g r a m B o t A P I = = 4 . 2 4 . 0 
+ 
+ p y t h o n - d a t e u t i l = = 2 . 9 . 0 . p o s t 0 
+ 
+ p y t h o n - t e l e g r a m - b o t = = 2 1 . 9 
+ 
+ p y t z = = 2 0 2 4 . 2 
+ 
+ r e q u e s t s = = 2 . 3 2 . 3 
+ 
+ r e q u e s t s - o a u t h l i b = = 2 . 0 . 0 
+ 
+ r s a = = 4 . 9 
+ 
+ s i x = = 1 . 1 7 . 0 
+ 
+ s n i f f i o = = 1 . 3 . 1 
+ 
+ t z d a t a = = 2 0 2 4 . 2 
+ 
+ t z l o c a l = = 5 . 2 
+ 
+ u r i t e m p l a t e = = 4 . 1 . 1 
+ 
+ u r l l i b 3 = = 2 . 2 . 3 
+ 
+ y a r l = = 1 . 1 8 . 3 
+ 
+ 
